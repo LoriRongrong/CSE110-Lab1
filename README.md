@@ -11,7 +11,8 @@ Some code really inspired me, like:
 echo hello world 
 ```
 ## Special links 
-[relational](./linked_file.txt)
+[relational links to an empty file](./linked_file.txt)
+
 Also if you would like some meme:
 
 ![meme of the day](./meme.png)
