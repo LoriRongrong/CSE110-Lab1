@@ -14,7 +14,7 @@ echo hello world
 [relational](./linked_file.txt)
 Also if you would like some meme:
 
-![meme of the day](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.siliconrepublic.com%2Fjobs%2Fcareer-memes-of-the-week-software-engineer&psig=AOvVaw18wofDBH3X7g77wvzxMt2Y&ust=1609978872860000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDMr-qEhu4CFQAAAAAdAAAAABAP)
+![meme of the day](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F180284791304996246%2F&psig=AOvVaw18wofDBH3X7g77wvzxMt2Y&ust=1609978872860000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDMr-qEhu4CFQAAAAAdAAAAABAW)
 
 ## [Section Links](#My-Goal-for-2021)
 
