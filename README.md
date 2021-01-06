@@ -1,6 +1,6 @@
 # Rongrong's User Page
 
-You can visit my [personal website] (https://lorirongrong.github.io/Me/) to see what's going on in my life and what I am up to. I **tried** to update the code during the winter break but I was occupied by other things in my life. 
+You can visit my [personal website](https://lorirongrong.github.io/Me/) to see what's going on in my life and what I am up to. I **tried** to update the code during the winter break but I was occupied by other things in my life. 
 
 ## Quotes 
 Some words really inspired me, like:
@@ -11,9 +11,9 @@ Some code really inspired me, like:
 echo hello world 
 ```
 ## Special links 
-[relational] (./linked_file.txt)
+[relational](./linked_file.txt)
 
-## Section Links (#My Goal for 2021)
+## [Section Links](#My Goal for 2021)
 
 
 ## This is for lists 
@@ -28,7 +28,7 @@ echo hello world
 
 
 ### My Goal for 2021
-- [ ] ~~ Maintain a healthier sleep schedule ~~ (this is simply impossible)
+- [ ] ~~Maintain a healthier sleep schedule~~ (this is simply impossible)
 - [x] Learn more software engineering 
 - [ ] Take case of my family
 - [ ] Be happy and grateful 
